@@ -6,8 +6,3 @@ second edit
 
 aoaoa pr
 
-<<<<<<< HEAD
-
-=======
-asdasdsaddasdas asdasd asdasd aaa
->>>>>>> zero
