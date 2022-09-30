@@ -5,8 +5,3 @@ first edit
 second edit
 
 aoaoa pr
-<<<<<<< HEAD
-=======
-
-zero
->>>>>>> zero
